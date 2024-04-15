@@ -4,6 +4,6 @@ OS portability library for file change detection.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/shinmera/file-notify.git |
-| commit  | de4ed6b                                         |
+| commit  | d8860ff                                         |
 | systems | file-notify                                     |
 |---------+-------------------------------------------------|
